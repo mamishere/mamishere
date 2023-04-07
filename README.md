@@ -2,9 +2,9 @@
 <h3 align="center">Aspiring Deep Learning Researcher</h3>
 <br>
 <p align ="center">
-Currently working on <strong>Customer Churn Prediction</strong>
+Currently working on: <strong>  Customer Churn Prediction</strong>
 </p><p align="center">
-  Reach me <strong color="blue">mahmoudi.mohammad.h@gmail.com</strong>
+Reach me: <strong> mahmoudi.mohammad.h@gmail.com</strong>
 </p><br>
 
 <h3 align="center">Languages and Tools</h3><hr>
@@ -16,7 +16,7 @@ Currently working on <strong>Customer Churn Prediction</strong>
 <br>
 <h3 align="center">Connect with me</h3><hr>
 <p align="center">
-<a href="https://kaggle.com/mamishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mamishere" height="40" width="40" /></a><a href="https://kaggle.com/mamishere" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" alt="mamishere" height="50" width="50" /></a><a href="https://linkedin.com/in/mohammad-hossein-mahmoudi" target="blank"><img style="padding-left=20px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-hossein-mahmoudi" height="40" width="40" /></a>
+<a href="https://kaggle.com/mamishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mamishere" height="40" width="40" /></a><a style="float:right; margin-left:20px;" href="https://linkedin.com/in/mohammad-hossein-mahmoudi" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-hossein-mahmoudi" height="40" width="40" /></a>
 <br>
 </p>
 
