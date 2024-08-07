@@ -1,8 +1,8 @@
-<h1>I'm Mohammad Hossein Mahmoudi</h1>
+<h1>I'm [Mohammad Hossein Mahmoudi](https://google.com) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=mirsazzathossain" height="20px"></h1>
 <h3>Aspiring Deep Learning Researcher</h3>
 <br>
 <p >
-## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mir Sazzat Hossain!](https://mirsazzathossain.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=mirsazzathossain" height="20px">
+I'm [Mir Sazzat Hossain!](https://mirsazzathossain.me/) <a href="https://wakatime.com/@fe38a003-9d88-400e-b624-e41ac19ee0d4"><img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> <img src="https://komarev.com/ghpvc/?username=mirsazzathossain" height="20px">
 
 I am a graduate 🎓 with a strong background in computer science 💻 and experience in exploratory data analysis, machine learning, computer vision, and statistics 🔥. Currently, I am working as a **Research Assistant** 🧑‍🔬 at the [**Center for Computational and Data Sciences (CCDS), IUB**](http://ccds.ai/) 🏛️. My research interests include Computer Vision, Geometric Machine Learning, Group theory, and Manifold learning ✨. As I am passionate about learning new topics in data science, visualizing data, and conducting research 🤓, I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
 
