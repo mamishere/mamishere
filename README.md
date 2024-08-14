@@ -1,4 +1,4 @@
-# I'm [Mohammad Hossein Mahmoudi](https://google.com) 
+# I'm Mohammad Hossein Mahmoudi
 <br>
 
 I am a passionate researcher in the field of Artificial Intelligence, specializing in Machine Learning and Deep Learning. Currently pursuing a Master’s degree in Industrial Engineering at [**Sharif University of Technology**](https://en.sharif.edu/), I've built a solid foundation in data science and its transformative potential across various industries.
