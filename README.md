@@ -4,9 +4,9 @@
 I am a passionate researcher in the field of Artificial Intelligence, specializing in Machine Learning and Deep Learning. Currently pursuing a Master’s degree in Industrial Engineering at [**Sharif University of Technology**](https://en.sharif.edu/), I've built a solid foundation in data science and its transformative potential across various industries.
 My research focuses on developing advanced machine learning algorithms to solve complex problems in customer analytics and healthcare. I have authored several peer-reviewed papers demonstrating innovative uses of machine learning to drive insights and improvements in these areas.
 
-<p><a href="https://www.facebook.com//"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> 
-   <a href="https://www.linkedin.com/in/mohammad-h-mahmoudi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="mailto:mahmoudi.mohammad.h@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
+<p><a href="https://www.facebook.com"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
+   <a href="https://www.linkedin.com/in/mohammad-h-mahmoudi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="mailto:mahmoudi.mohammad.h@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   <a href="https://scholar.google.com/citations?user=1a7E2YIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height=25></a></p>
 <br>
 
