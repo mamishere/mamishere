@@ -1,8 +1,9 @@
-# I'm Mohammad Hossein Mahmoudi
+# I'm Mohammad Hossein Mahmoudi (Call me Shahriyar!)
 <br>
 
-I am a passionate researcher in the field of Artificial Intelligence, specializing in Machine Learning and Deep Learning. Currently pursuing a Master’s degree in Industrial Engineering at [**Sharif University of Technology**](https://en.sharif.edu/), I've built a solid foundation in data science and its transformative potential across various industries.
-My research focuses on developing advanced machine learning algorithms to solve complex problems in customer analytics and healthcare. I have authored several peer-reviewed papers demonstrating innovative uses of machine learning to drive insights and improvements in these areas.
+He is a passionate researcher in the field of Artificial Intelligence, with a specialization in Machine Learning and Deep Learning. Currently pursuing a Master’s degree in Industrial Engineering at [**Sharif University of Technology**](https://en.sharif.edu/), he has developed a robust foundation in data science and its transformative applications across various industries.
+
+His research is centered on developing advanced machine learning algorithms to address complex challenges in customer analytics and healthcare. He has authored several peer-reviewed papers, showcasing innovative applications of machine learning to drive insights and improvements in these domains.
 
 <p><a href="https://www.facebook.com"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
    <a href="https://www.linkedin.com/in/mohammad-h-mahmoudi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
