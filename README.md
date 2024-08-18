@@ -6,8 +6,8 @@ My research focuses on developing advanced machine learning algorithms to solve 
 
 <p><a href="https://www.facebook.com"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
    <a href="https://www.linkedin.com/in/mohammad-h-mahmoudi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="mailto:mahmoudi.mohammad.h@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-  <a href="https://scholar.google.com/citations?user=1a7E2YIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height=25></a></p>
+&nbsp;<a href="mailto:mahmoudi.mohammad.h@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+    &nbsp;<a href="https://scholar.google.com/citations?user=1a7E2YIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height=25></a></p>
 <br>
 
 </p>
