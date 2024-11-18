@@ -1,9 +1,17 @@
 # I'm Mohammad Hossein Mahmoudi (Call me Shahriyar!)
 <br>
 
-He is a dedicated researcher in Artificial Intelligence, with a strong focus on applying Machine Learning and Deep Learning techniques to healthcare, customer analytics, and decision-support systems. His work emphasizes the development of explainable AI models, causal inference, and advanced algorithms for disease diagnosis, medical decision-making, and predictive analytics. Currently pursuing a Master’s degree in Industrial Engineering at [**Sharif University of Technology**](https://en.sharif.edu/) with a GPA of **18.32/20 (4.0/4.0)**, he has developed a robust foundation in data science and its transformative applications across various industries. He previously completed his Bachelor’s degree in Industrial Engineering at [**Iran University of Science and Technology**](https://www.iust.ac.ir/en), where he gained critical skills in operations research and optimization.
+<p align="justify">
+He is a dedicated researcher in Artificial Intelligence, with a strong focus on applying Machine Learning and Deep Learning techniques to healthcare, customer analytics, and decision-support systems. His work emphasizes the development of explainable AI models, causal inference, and advanced algorithms for disease diagnosis, medical decision-making, and predictive analytics. Currently pursuing a Master’s degree in Industrial Engineering at <a href="https://en.sharif.edu/" target="_blank"><strong>Sharif University of Technology</strong></a> with a GPA of <strong>18.32/20 (4.0/4.0)</strong>, he has developed a robust foundation in data science and its transformative applications across various industries. He previously completed his Bachelor’s degree in Industrial Engineering at <a href="https://www.iust.ac.ir/en" target="_blank"><strong>Iran University of Science and Technology</strong></a>, where he gained critical skills in operations research and optimization.
+</p>
 
-His research is centered on developing advanced machine learning algorithms to address complex challenges in customer analytics and healthcare. He has authored several peer-reviewed papers, showcasing innovative applications of machine learning to drive insights and improvements in these domains.
+<p align="justify">
+His research focuses on leveraging machine learning and large language models (LLMs) to solve challenges in healthcare and business analytics. He has co-authored several peer-reviewed papers, including <em>"Enhancing Title and Abstract Screening for Systematic Reviews with GPT-3.5 Turbo,"</em> published in <strong>BMJ Evidence-Based Medicine</strong>, and <em>"Assessing the Diagnostic Accuracy of Machine Learning Algorithms for Identification of Asthma in United States Adults based on NHANES Dataset,"</em> which is under revision for <strong>Scientific Reports</strong>. His work also includes developing advanced chunking strategies in retrieval-augmented generation models, with a paper prepared for submission to <strong>Artificial Intelligence in Medicine</strong>.
+</p>
+
+<p align="justify">
+Currently, he is researching seizure prediction models using cardiac data (ECG) to improve early detection of epilepsy through AI, exploring the novel application of ECG data instead of the more commonly used EEG data for this purpose. His Master’s thesis explores causal relationships among key factors affecting customer retention using artificial neural networks, reflecting his broader interest in causal inference and explainable AI.
+</p>
 
 <p align="center">
     <a href="https://www.facebook.com"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="25"></a>
