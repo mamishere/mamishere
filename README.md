@@ -31,34 +31,56 @@ Currently, he is researching seizure prediction models using cardiac data (ECG) 
 
 I have experience working with a wide range of programming languages, frameworks, and tools, including:
 
-## Languages and Tools
-
-### Programming Languages
-`Python` · `R` · `C++` · `Bash`
-
-### Tools and Platforms
-`Linux` · `Git` · `SQL` · `Ms Access`
-
-### Machine Learning and Data Science
-`TensorFlow` · `Keras` · `Scikit-Learn` · `SciPy` · `NumPy` · `Pandas` · `Statsmodels` · `pm4py`
-
-### Web Scraping and Data Processing
-`BeautifulSoup` · `Regex` · `OpenCV`
-
-### Data Visualization
-`Matplotlib` · `Seaborn` · `Plotly`
-
-### Simulation and Process Modeling
-`Arena Simulation Software` · `Camunda Modeler` · `Bizagi Studio` · `Disco`
-
-### Business Intelligence and Reporting
-`Power BI` · `Tableau`
-
-### Web and Application Development
-`Django` · `Flask` · `HTML` · `CSS` · `WordPress`
-
-### Other Tools
-`Minitab` · `SPSS` · `MSProject` · `Primavera` · `Figma` · `Adobe Photoshop`
+<p align="justify">
+<div align="center">
+  <table>
+    <thead align="left">
+      <tr>
+        <th>Category</th>
+        <th>Tools</th>
+      </tr>
+    </thead>
+    <tbody align="left">
+      <tr>
+        <td><strong>Programming Languages</strong></td>
+        <td>Python · R · C++ · Bash</td>
+      </tr>
+      <tr>
+        <td><strong>Tools and Platforms</strong></td>
+        <td>Linux · Git · SQL · Ms Access</td>
+      </tr>
+      <tr>
+        <td><strong>Machine Learning and Data Science</strong></td>
+        <td>TensorFlow · Keras · Scikit-Learn · SciPy · NumPy · Pandas · Statsmodels · pm4py</td>
+      </tr>
+      <tr>
+        <td><strong>Web Scraping and Data Processing</strong></td>
+        <td>BeautifulSoup · Regex · OpenCV</td>
+      </tr>
+      <tr>
+        <td><strong>Data Visualization</strong></td>
+        <td>Matplotlib · Seaborn · Plotly</td>
+      </tr>
+      <tr>
+        <td><strong>Simulation and Process Modeling</strong></td>
+        <td>Arena Simulation Software · Camunda Modeler · Bizagi Studio · Disco</td>
+      </tr>
+      <tr>
+        <td><strong>Business Intelligence and Reporting</strong></td>
+        <td>Power BI · Tableau</td>
+      </tr>
+      <tr>
+        <td><strong>Web and Application Development</strong></td>
+        <td>Django · Flask · HTML · CSS · WordPress</td>
+      </tr>
+      <tr>
+        <td><strong>Other Tools</strong></td>
+        <td>Minitab · SPSS · MSProject · Primavera · Figma · Adobe Photoshop</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</p>
 
 <h2 align="center">Connect with Me</h2>
 
