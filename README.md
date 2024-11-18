@@ -82,13 +82,9 @@ I have experience working with a wide range of programming languages, frameworks
 </div>
 </p>
 
-<h2 align="center">Connect with Me</h2>
+## Connect with Me
 
-<p align="center">
-    <a href="mailto:mahmoudi.mohammad.h@gmail.com" target="_blank">Email</a>
-</p>
+<a href="mailto:mahmoudi.mohammad.h@gmail.com" target="_blank">Email</a>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/mohammad-h-mahmoudi" target="_blank">LinkedIn</a> |
-    <a href="https://www.facebook.com" target="_blank">Facebook</a>
-</p>
+<a href="https://www.linkedin.com/in/mohammad-h-mahmoudi" target="_blank">LinkedIn</a> |
+<a href="https://www.facebook.com" target="_blank">Facebook</a>
